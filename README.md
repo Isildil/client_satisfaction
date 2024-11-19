@@ -9,7 +9,7 @@ An airline conducts a survey on passengers’ satisfaction and wishes to know wh
 The python script used for the analysis can be found here.
  
 ## Data Structure & Initial Checks
-The data used was taken from the UC Irvine Machine Learning Repository and it consists of one table with 45,211 rows and 17 columns. Is is real data collected from a Portuguese retail bank, from May 2008 to June 2013, with a total of 52944 phone contacts.
+
 Variables:
 Gender: Gender of the passengers (Female, Male)
 Customer Type: The customer type (Loyal customer, disloyal customer)
