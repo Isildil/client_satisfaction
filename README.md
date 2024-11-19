@@ -120,9 +120,13 @@ Online boarding was the metric with the strongest correlation to satisfaction ov
 
 ## Recommendations:
 Based on the insights and findings above, the following recommendations are provided:
+
 •	Conduct an investigation as to why the online boarding is so important to Passenger satisfaction. Is the user interface friendly enough? Why is it more highly rated among Business class passengers than Economy and Economy Plus passengers? How can it be improved in order to improve passenger satisfaction?
+
 •	Prioritize the Wifi service for the Economy and Economy Plus classes .
+
 •	Prioritize inflight entertainment for Business class passengers. 
+
 •	Minimize delays as much as possible or offer a compensation for lost time to passengers during a delayed flight.
 
 
